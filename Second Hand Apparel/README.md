@@ -1,11 +1,11 @@
-# 🔄 THE SECONDHAND REVOLUTION
+# THE SECONDHAND REVOLUTION
 ## Why Apparel Finally Joined the Game
 
 **The meta-insight:** Resale value as brand equity isn't new—it's existed for decades in homes, cars, and luxury goods. What's new is that it finally came to apparel, an industry where the psychological barrier of wearing something that touched someone else's skin blocked this economic model for 50+ years.
 
 ---
 
-## 🎯 THE CORE ARGUMENT
+## THE CORE ARGUMENT
 
 ### The Game Isn't New
 
@@ -47,7 +47,7 @@ Several forces converged to break down this barrier:
 
 ---
 
-## 🎯 THE STORY STRUCTURE
+## THE STORY STRUCTURE
 
 ### PART 1: WHY APPAREL TOOK SO LONG
 Understanding the barrier before the data.
@@ -95,7 +95,7 @@ The CPO model for apparel.
 
 ---
 
-## 📊 KEY DATA POINTS
+## KEY DATA POINTS
 
 ### The "Why" — What Broke the Barrier
 - **80-150B** garments produced annually (massive surplus of good clothes)
@@ -123,7 +123,7 @@ The CPO model for apparel.
 
 ---
 
-## 🔧 THE CPO MODEL FOR APPAREL
+## THE CPO MODEL FOR APPAREL
 
 The used car market has:
 - ✅ Standardized inspection (150+ point checklists)
@@ -144,7 +144,7 @@ Apparel has none of this at scale. **The opportunity is building it:**
 
 ---
 
-## 🚀 QUICK START
+## QUICK START
 
 ### Running the Notebook
 
@@ -160,7 +160,7 @@ The notebook creates 19 PNG visualizations at 300 DPI:
 
 ---
 
-## 📚 DATA SOURCES
+## DATA SOURCES
 
 | Source | Report | Date |
 |--------|--------|------|
@@ -178,7 +178,7 @@ The notebook creates 19 PNG visualizations at 300 DPI:
 
 ---
 
-## 🎯 THE META-INSIGHT
+## THE META-INSIGHT
 
 > **The game isn't new. It has been played for decades in real estate, automobiles, and luxury goods. But now it has opened up a new economic opportunity in an industry where it was never played before.**
 
