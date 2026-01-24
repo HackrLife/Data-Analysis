@@ -4,7 +4,7 @@
 
 ---
 
-### 🎯 What This Is
+### What This Is
 
 This is a comprehensive data journalism project that combines **5 EMARKETER datasets** on mobile video advertising to reveal insights that are invisible when looking at any single dataset alone.
 
@@ -12,7 +12,7 @@ The central finding: **Mobile video advertising became a $145B automated, app-do
 
 ---
 
-### 📁 What's Included
+### What's Included
 
 | File | Description |
 |------|-------------|
@@ -34,7 +34,7 @@ The central finding: **Mobile video advertising became a $145B automated, app-do
 
 ---
 
-### 📊 The Five Source Datasets
+### The Five Source Datasets
 
 1. **EMARKETER Table 330**: Mobile Video Ad Spending (absolute $)
 2. **EMARKETER Table 332**: Mobile Video Ad Spending Growth (% YoY)
@@ -44,7 +44,7 @@ The central finding: **Mobile video advertising became a $145B automated, app-do
 
 ---
 
-### 🔬 Derived Metrics Created
+### Derived Metrics Created
 
 By combining the raw datasets, this analysis calculates new metrics:
 
@@ -61,7 +61,7 @@ By combining the raw datasets, this analysis calculates new metrics:
 
 ---
 
-### 🎬 The Three-Act Story
+### The Three-Act Story
 
 **Act 1: The Wild West (2011-2016)**
 - 100%+ YoY growth
@@ -82,7 +82,7 @@ By combining the raw datasets, this analysis calculates new metrics:
 
 ---
 
-### 🚀 How to Use
+### How to Use
 
 **To view the analysis:**
 1. Open `The_145_Billion_Paradox_Report.docx` for the full narrative
@@ -99,7 +99,7 @@ By combining the raw datasets, this analysis calculates new metrics:
 
 ---
 
-### 📈 Key Takeaways
+### Key Takeaways
 
 1. **2,268x Growth**: $64M (2011) → $145B (2029)
 2. **94% Automated**: By 2025, $81B bought with zero human negotiation
@@ -108,21 +108,20 @@ By combining the raw datasets, this analysis calculates new metrics:
 
 ---
 
-### 📝 Author
+### Author
 
-**HackrLife**  
-Head of SMB & Startup Marketing | Google Cloud APAC  
-Newsletter: HackrLife Daily
+**Dev Das**  
+Google
 
 ---
 
-### 📅 Date
+### Date
 
 January 2026
 
 ---
 
-### 📖 License
+### License
 
 Data Source: EMARKETER  
 Analysis and visualizations: Open for educational and non-commercial use with attribution.
