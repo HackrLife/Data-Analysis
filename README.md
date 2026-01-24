@@ -1,4 +1,4 @@
-# Data-Visualisations
+# Data-Analysis
 
 **Data journalism meets rigorous analysis.**
 
